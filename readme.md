@@ -12,6 +12,10 @@ Replaces highlighted text with Wikipedia result as a Markdown link
 
 Replaces highlighted Markdown text with HTML
 
+## BBEdit
+
+Opens selected text in a new BBEdit document
+
 *****
 
 *Clover designed by [Pavel Nikandrov from The Noun Project](http://thenounproject.com/pavel.nikandrov/#)*
