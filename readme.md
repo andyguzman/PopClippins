@@ -1,12 +1,12 @@
-# Extensions for [PopClip](http://pilotmoon.com/popclip/)
+# Markdown Extensions for [PopClip](http://pilotmoon.com/popclip/)
 
 ## Lucky Link
 
-Replaces highlighted text with Google's "I'm feeling lucky" result
+Replaces highlighted text with Google's "I'm feeling lucky" result as a Markdown link
 
 ## Wiki Link
 
-Replaces highlighted text with Wikipedia result
+Replaces highlighted text with Wikipedia result as a Markdown link
 
 ## MD to HTML
 
