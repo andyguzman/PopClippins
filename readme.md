@@ -12,6 +12,8 @@ Replaces highlighted text with Wikipedia result as a Markdown link
 
 Replaces highlighted Markdown text with HTML
 
+***Note:* Requires the [Python Markdown package](http://pypi.python.org/pypi/Markdown/)**
+
 ## BBEdit
 
 Opens selected text in a new BBEdit document
